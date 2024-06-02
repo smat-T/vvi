@@ -56,7 +56,9 @@ a:hover, a:focus, a:active {
   color: #115c9b;
   background: #ffffff;
 }
-
+.navbar-brand img:hover{
+  background-color: #ffffff !important;
+}
 /*
 ********** Colors *********
 
